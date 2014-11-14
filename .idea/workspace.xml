@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4815e1f-95b4-422e-af01-866619ccbccc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/device/Electsum.app/Electsum" afterPath="$PROJECT_DIR$/platforms/ios/build/device/Electsum.app/Electsum" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Electsum.app/Electsum" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Electsum.app/Electsum" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/device/Electsum.app/MainViewController.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/device/Electsum.app/MainViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Electsum.app/MainViewController.nib" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Electsum.app/MainViewController.nib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/libCordova.a" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7/libCordova.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7s/libCordova.a" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/Objects-normal/armv7s/libCordova.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/device/libCordova.a" afterPath="$PROJECT_DIR$/platforms/ios/build/device/libCordova.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/libCordova.a" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/libCordova.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/device/Electsum.app/_CodeSignature/CodeResources" afterPath="$PROJECT_DIR$/platforms/ios/build/device/Electsum.app/_CodeSignature/CodeResources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/CordovaLib.dep" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/CordovaLib.dep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/CordovaLib.dep" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/CordovaLib.dep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Electsum/Electsum-Info.plist" afterPath="$PROJECT_DIR$/platforms/ios/Electsum/Electsum-Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/Electsum.build/Debug-iphoneos/Electsum.build/Electsum.dep" afterPath="$PROJECT_DIR$/platforms/ios/build/Electsum.build/Debug-iphoneos/Electsum.build/Electsum.dep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/Electsum.build/Debug-iphonesimulator/Electsum.build/Electsum.dep" afterPath="$PROJECT_DIR$/platforms/ios/build/Electsum.build/Debug-iphonesimulator/Electsum.build/Electsum.dep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/Electsum.build/Debug-iphoneos/Electsum.build/Objects-normal/armv7/Electsum_dependency_info.dat" afterPath="$PROJECT_DIR$/platforms/ios/build/Electsum.build/Debug-iphoneos/Electsum.build/Objects-normal/armv7/Electsum_dependency_info.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/Electsum.build/Debug-iphonesimulator/Electsum.build/Objects-normal/i386/Electsum_dependency_info.dat" afterPath="$PROJECT_DIR$/platforms/ios/build/Electsum.build/Debug-iphonesimulator/Electsum.build/Objects-normal/i386/Electsum_dependency_info.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/build-state.dat" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphoneos/CordovaLib.build/build-state.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/build-state.dat" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/build-state.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/Electsum.build/Debug-iphoneos/Electsum.build/build-state.dat" afterPath="$PROJECT_DIR$/platforms/ios/build/Electsum.build/Debug-iphoneos/Electsum.build/build-state.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/Electsum.build/Debug-iphonesimulator/Electsum.build/build-state.dat" afterPath="$PROJECT_DIR$/platforms/ios/build/Electsum.build/Debug-iphonesimulator/Electsum.build/build-state.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/device/Electsum.app/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/build/device/Electsum.app/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/build/emulator/Electsum.app/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/build/emulator/Electsum.app/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/myScript.js" afterPath="$PROJECT_DIR$/www/js/myScript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/Electsum.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/platforms/ios/Electsum.xcodeproj/project.pbxproj" />
+    </list>
+    <ignored path="Electsum.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Electsum" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="51" selection-start="566" selection-end="566" vertical-scroll-proportion="0.2109375" vertical-offset="0" max-vertical-offset="1725">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myStyle.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="7" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myScript.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="363" column="0" selection-start="11339" selection-end="11339" vertical-scroll-proportion="0.0" vertical-offset="4976" max-vertical-offset="5640">
+              <folding>
+                <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/www/js/bitcoinjs-min.js" />
+        <option value="$PROJECT_DIR$/www/css/myStyle.css" />
+        <option value="$PROJECT_DIR$/www/js/electrum.js" />
+        <option value="$PROJECT_DIR$/platforms/ios/Electsum/config.xml" />
+        <option value="$PROJECT_DIR$/www/js/myScript.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Electsum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Electsum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Electsum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Electsum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Electsum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Electsum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Electsum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Electsum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Electsum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistory" value="'&#10;Login" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/js" />
+      <recent name="$PROJECT_DIR$/www/css" />
+      <recent name="$PROJECT_DIR$/platforms/ios/www/css" />
+      <recent name="$PROJECT_DIR$/platforms/ios/www/js" />
+      <recent name="$PROJECT_DIR$/www" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4815e1f-95b4-422e-af01-866619ccbccc" name="Default" comment="" />
+      <created>1390607783007</created>
+      <updated>1390607783007</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Init commit">
+      <created>1390608515258</created>
+      <updated>1390608515259</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added jquery mobile. &#10;Working Electrum-compatible address generator.">
+      <created>1390612002395</created>
+      <updated>1390612002403</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added AES encryption of wordlist.">
+      <created>1390620494578</created>
+      <updated>1390620494578</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Saved addresses to localstorage after initial generation to speed up further uses.">
+      <created>1390626453354</created>
+      <updated>1390626453354</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Triggered refresh on resume event.">
+      <created>1390626928850</created>
+      <updated>1390626928850</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed list-duplicating on resume.">
+      <created>1390627416314</created>
+      <updated>1390627416314</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added a settings page for changing mnemonic and address count.">
+      <created>1390634190031</created>
+      <updated>1390634190031</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed bugs in Settings page.">
+      <created>1390635560462</created>
+      <updated>1390635560462</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed bugs in Settings page. (saving mnemonic)">
+      <created>1390637679464</created>
+      <updated>1390637679464</updated>
+    </task>
+    <task id="LOCAL-00010" summary="removed redundant onClick event from button.">
+      <created>1390641195255</created>
+      <updated>1390641195255</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added QR code and detail page.">
+      <created>1390856341252</created>
+      <updated>1390856341252</updated>
+    </task>
+    <task id="LOCAL-00012" summary="zeroed totalBTC balance upon refresh.">
+      <created>1390857059889</created>
+      <updated>1390857059889</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Saved password hash instead of cleartext password.&#10;Added initial setup page details.">
+      <created>1390934468794</created>
+      <updated>1390934468794</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated Settings page to match earlier password hash changes.">
+      <created>1390956540674</created>
+      <updated>1390956540675</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated Settings page to match earlier password hash changes.">
+      <created>1390957864317</created>
+      <updated>1390957864317</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added coinbase price to details page. &#10;Added Refresh button to details page.&#10;Made QR clickable on details page.">
+      <created>1391016682584</created>
+      <updated>1391016682584</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added $ sign to USD on details page.&#10;Hid &quot;Total:&quot; while generating keys.">
+      <created>1391017176894</created>
+      <updated>1391017176894</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added progress indicator during key gen &quot;%&quot;.">
+      <created>1391017781273</created>
+      <updated>1391017781273</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Replaced &quot;|||&quot; progress indicator with just %.">
+      <created>1391018531386</created>
+      <updated>1391018531386</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added error message for price conversion in Details.">
+      <created>1391023547175</created>
+      <updated>1391023547175</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added better error message for coinbase outage.">
+      <created>1391024169877</created>
+      <updated>1391024169877</updated>
+    </task>
+    <task id="LOCAL-00022" summary="local MPK">
+      <created>1391968723436</created>
+      <updated>1391968723436</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19375" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Init commit" />
+    <MESSAGE value="Added jquery mobile. &#10;Working Electrum-compatible address generator." />
+    <MESSAGE value="Added AES encryption of wordlist." />
+    <MESSAGE value="Saved addresses to localstorage after initial generation to speed up further uses." />
+    <MESSAGE value="Triggered refresh on resume event." />
+    <MESSAGE value="fixed list-duplicating on resume." />
+    <MESSAGE value="Added a settings page for changing mnemonic and address count." />
+    <MESSAGE value="Fixed bugs in Settings page." />
+    <MESSAGE value="Fixed bugs in Settings page. (saving mnemonic)" />
+    <MESSAGE value="removed redundant onClick event from button." />
+    <MESSAGE value="Added resizeText() function. &#10;Added TODO reminders." />
+    <MESSAGE value="Added QR code and detail page." />
+    <MESSAGE value="zeroed totalBTC balance upon refresh." />
+    <MESSAGE value="Saved password hash instead of cleartext password.&#10;Added initial setup page details." />
+    <MESSAGE value="Updated Settings page to match earlier password hash changes." />
+    <MESSAGE value="Added coinbase price to details page. &#10;Added Refresh button to details page.&#10;Made QR clickable on details page." />
+    <MESSAGE value="Added $ sign to USD on details page.&#10;Hid &quot;Total:&quot; while generating keys." />
+    <MESSAGE value="Added progress indicator during key gen &quot;%&quot;." />
+    <MESSAGE value="Replaced &quot;|||&quot; progress indicator with just %." />
+    <MESSAGE value="Added error message for price conversion in Details." />
+    <MESSAGE value="Added better error message for coinbase outage." />
+    <MESSAGE value="local MPK" />
+    <option name="LAST_COMMIT_MESSAGE" value="local MPK" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="53" selection-start="3659" selection-end="3659" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="257" column="68" selection-start="8603" selection-end="8603" vertical-scroll-proportion="0.0" vertical-offset="3855" max-vertical-offset="4035">
+          <folding>
+            <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="53" selection-start="3659" selection-end="3659" vertical-scroll-proportion="0.0" vertical-offset="147" max-vertical-offset="1680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="38" selection-start="447" selection-end="522" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="3915">
+          <folding>
+            <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="64" selection-start="2889" selection-end="2889" vertical-scroll-proportion="0.0" vertical-offset="502" max-vertical-offset="1650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="24" selection-start="5207" selection-end="5207" vertical-scroll-proportion="0.0" vertical-offset="2385" max-vertical-offset="3285">
+          <folding>
+            <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="18" selection-start="5012" selection-end="5012" vertical-scroll-proportion="0.0" vertical-offset="995" max-vertical-offset="1635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="23" selection-start="2377" selection-end="2377" vertical-scroll-proportion="0.0" vertical-offset="1110" max-vertical-offset="3150">
+          <folding>
+            <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="64" selection-start="4585" selection-end="4585" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="30" selection-start="771" selection-end="771" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2910">
+          <folding>
+            <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/electrum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="84" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2040" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="0" selection-start="3499" selection-end="3499" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2835">
+          <folding>
+            <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="0" selection-start="3499" selection-end="3499" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="2835">
+          <folding>
+            <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="28" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="18" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="22" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2565">
+          <folding>
+            <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="28" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0" vertical-offset="397" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="32" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="24" selection-start="3789" selection-end="3789" vertical-scroll-proportion="0.0" vertical-offset="1736" max-vertical-offset="2370">
+          <folding>
+            <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="41" selection-start="1997" selection-end="1997" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="94" selection-start="3659" selection-end="3659" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2010">
+          <folding>
+            <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="41" selection-start="1997" selection-end="1997" vertical-scroll-proportion="0.0" vertical-offset="202" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="94" selection-start="3659" selection-end="3659" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2010">
+          <folding>
+            <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="82" selection-start="2543" selection-end="2543" vertical-scroll-proportion="0.0" vertical-offset="117" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="29" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="2010">
+          <folding>
+            <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/cordova.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="23910" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/ios/www/js/jquery.mobile-1.4.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="220995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/jquery.mobile-1.4.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="220995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/bitcoinjs-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="67882" selection-end="67882" vertical-scroll-proportion="0.44491526" vertical-offset="0" max-vertical-offset="944" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1815" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/electrum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="15" selection-start="1274" selection-end="1274" vertical-scroll-proportion="0.53291535" vertical-offset="0" max-vertical-offset="2070" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/ios/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="957" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/ios.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="944" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="957">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/ios/Electsum/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="957">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="363" column="0" selection-start="11339" selection-end="11339" vertical-scroll-proportion="0.0" vertical-offset="4976" max-vertical-offset="5640">
+          <folding>
+            <marker date="1392131932000" expanded="false" signature="5329:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/aes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="664">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="51" selection-start="566" selection-end="566" vertical-scroll-proportion="0.2109375" vertical-offset="0" max-vertical-offset="1725">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

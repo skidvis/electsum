@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/themes/default/jquery.mobile-1.4.0.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/myStyle.css" />
+        <script type="text/javascript" src="cordova.js"></script>
+        <script src="js/bitcoinjs-min.js"></script>
+        <script src="js/aes.js"></script>
+        <script src="js/qrcode.min.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="js/jquery.mobile-1.4.0.js"></script>
+        <script src="js/myScript.js"></script>
+        <title>Electsum</title>
+    </head>
+    <body>
+        <div data-role="page" id="home">
+            <div data-role="header" data-theme="a">
+                <a href="#settings" data-icon="gear" data-iconpos="notext" data-transition="slide">settings</a>
+                <h3>ELECTsUM</h3>
+                <span id="tempp"></span>
+                <a href="#" onclick="main();" data-icon="refresh" data-iconpos="notext">refresh</a>
+            </div>
+            <div data-role="content">
+                <p id="slow">Initializing addresses for the 1st time, <br />Please stand by..</p>
+                <ul data-role="listview" id="addresses"></ul>
+            </div>
+            <div data-role="footer" data-position="fixed">
+                <h4 id="btcPrice"></h4>
+            </div>
+        </div>
+
+        <div data-role="page" id="settings">
+            <div data-role="header">
+                <a href="#home" data-icon="back" data-iconpos="notext" data-transition="slide" data-direction="reverse">settings</a>
+                <h3>Settings</h3>
+            </div>
+            <div data-role="content">
+                <ul data-role="listview">
+                    <li id="settingsLogin">
+                        Enter password: <input type="password" id="txtPassword" />
+                        <button id="btnPassword" name="btnPassword" class="ui-btn">Change Settings</button>
+                    </li>
+                    <li class="lockedSettings" style="display:none;">
+                        <form>
+                            <label for="slider-1">Number of addresses:</label>
+                            <input type="range" name="slider-1" id="slider-1" min="1" max="100" value="15" onchange="changeAddressCount(value)">
+                        </form>
+                    </li>
+                    <li class="lockedSettings" id="settingsMnemonic" style="display:none;">
+                            <label for="txtMnemonic">Master Public Key:<a id="btnCamSettings" style="float:right;" class="ui-btn ui-icon-camera ui-btn-icon-left ui-btn-icon-notext">Camera</a></label>
+                            <textarea name="txtMnemonic" id="txtMnemonic"></textarea>
+                            <button id="btnMnemonic" name="btnMnemonic" class="ui-btn">Save MPK</button>
+                    </li>
+                    <div style="text-align: center; color: #a00;"><span id="settingsNotice"></span></div>
+                </ul>
+            </div>
+        </div>
+
+        <div data-role="page" id="detail">
+            <div data-role="header">
+                <a href="#home" data-icon="back" data-iconpos="notext" data-transition="slide" data-direction="reverse">settings</a>
+                <h3>Address Detail</h3>
+                <a href="#" onclick="getDetails();" data-icon="refresh" data-iconpos="notext">refresh</a>
+            </div>
+            <div data-role="content">
+                <ul data-role="listview">
+                    <li><span id="detailAddress" style="font-size:4vw;">Address</span></li>
+                    <li>BTC:&nbsp;<span id="detailBTC"></span></li>
+                    <li>USD:&nbsp;<span id="detailUSD"></span></li>
+                    <li><span id="qr"></span></li>
+                    <li><a id="detailLink" target="_system">View on Blockchain</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div data-role="page" id="setup">
+            <div data-role="header">
+                <h3>Welcome!</h3>
+            </div>
+            <div data-role="content">
+                <ul data-role="listview">
+                    <li>
+                        <p style="white-space: normal;">
+                            ELECTsUM is an <a href="#" id="electrumLink">Electrum</a>-compatible Watch-only wallet.
+                            This means you will only be able to view your balances, you cannot make any transactions with this program.
+                        </p>
+                        <p>Let's get started..</p>
+                    </li>
+                    <li id="setupPassword">
+                        <p>Choose a password:</p>
+                        <input type="password" id="txtSetupPassword1" />
+                        <p>Repeat the password:</p>
+                        <input type="password" id="txtSetupPassword2" />
+                        <button id="btnSetupPassword">Save it!</button>
+                    </li>
+                    <li id="setupMnemonic" style="display: none;">
+                        <p>Enter your Master Public Key: <a id="btnCam" style="float:right;" class="ui-btn ui-icon-camera ui-btn-icon-left ui-btn-icon-notext">Camera</a></p>
+                        <textarea id="txtSetupMnemonic"></textarea>
+                        <button id="btnSetupMnemonic">Get my public addresses!</button>
+                    </li>
+                    <div id="setupNotice" style="text-align: center; color:#a00;"></div>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,135 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" type="text/css" href="style.css" />
+	<link rel="stylesheet" type="text/css" href="jquery.lightbox-0.5.css" media="screen" />
+    <script src="js/qrcode.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script src="js/unslider.min.js"></script>
+  <script type="text/javascript" src="js/jquery.lightbox-0.5.js"></script>
+    <script type="text/javascript">
+    $(function() {
+        $('#gallery a').lightBox();
+        new QRCode(document.getElementById('qr'), "bitcoin:1FNvx7CrATTexTKRXadcLxkSDsa1gN5pyt");
+        $('.banner').unslider({delay:5000});
+    });
+    </script>   
+  <!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="iefix.css" />
+  <![endif]-->
+  <title>ELECTsUM</title>
+</head>
+<body>
+  <div class="page">
+    <div class="wrap">
+      <div class="prava">
+        <div class="iphone">
+            <div class="banner" style="width:274px; height:466px;">
+                <ul>
+                    <li><img src="img/web-title.jpg" /></li>
+                    <li><img src="img/web-addresses.jpg" /></li>
+                    <li><img src="img/web-detail.jpg" /></li>
+                </ul>
+            </div>
+        </div>
+        <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=808971935&mt=8" class="store"></a>
+      </div>        
+      <div class="left">
+        <div class="top">
+          <div class="menu">
+            <ul> 
+              <li><a href="#features">Features</a></li>
+              <li><a href="#screens">Screenshots</a></li>
+              <li class="last"><a href="#about">How it works</a></li>
+            </ul>
+          </div>
+          <h1>ELECTsUM</h1>
+          <h2>Electrum-compatible Watch-Only wallet</h2>
+          <p class="top">Use the popular Bitcoin wallet <a href="http://electrum.org">Electrum</a>? You should be! Now you can watch your balances and accept payments to any of your addresses from your phone!<a class="getit" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=808971935&mt=8">Get the app</a></p>
+        </div>
+        <div class="features">
+          <h3><a name="features"></a>Our app features</h3>
+          <div class="feature">
+            <h4>Keep tabs on your addresses</h4>
+            <p>Want to know how your wallet's doing but not in front of your computer? No problem! Now just whip out your phone and know in an instant!</p>
+          </div>
+          <div class="feature">
+          <h4>Receive payments</h4>
+          <p>Quickly display any of your Electrum addresses and track balances. Get paid and know instantly!</p>
+          </div>
+          <div class="feature">
+          <h4>Safe and secure</h4>
+          <p>No private keys are used, that's why it's Watch-only, so your private keys stay safe. All data is encrypted with top-grade encryption.</p>
+          </div>
+            <div class="feature">
+                <h4>Client-side only!</h4>
+                <p>No data is transmitted outside of the app other than your public addresses to check the balance on <a href="http://blockchain.info">blockchain.info</a>.</p>
+            </div>
+        </div>
+      </div>
+      <div class="full">
+        <hr style="margin: 20px 0 60px 0;"/>
+        <h3><a name="screens"></a>Screenshots</h3>
+        <div id="gallery">
+          <div class="screen">
+            <img src="img/title1.png" alt="Screen" />
+            <a href="img/title.png" title="Load Screen" class="vice"></a>
+          </div>
+          <div class="screen">
+            <img src="img/addresses1.png" alt="Screen" />
+            <a href="img/addresses.png" title="Address List" class="vice"></a>
+          </div>
+          <div class="screen">
+            <img src="img/detail1.png" alt="Screen" />
+            <a href="img/detail.png" title="Details" class="vice"></a>
+          </div>
+        </div>
+        
+        <div style="clear: both;"></div>        
+        <hr style="margin: 80px 0 60px 0;"/>
+        <div style="clear: both;"></div>
+        <h3 class="small">About Us</h3>
+        <h3 class="big"><a name="about"></a>How It Works</h3>
+        <div>
+            <h4>Enter a New Password [offline]</h4>
+            <p class="about">You enter a new password which will be used to secure your details. A <a href="http://en.wikipedia.org/wiki/SHA-2">SHA-256</a> hash of the password is created and saved, your password is never stored or transmitted.</p>
+            <h4>Enter Your Electrum Master Public Key [offline]</h4>
+            <p class="about">Enter the Master Public Key that <a href="http://electrum.org">Electrum</a> generated for you. Your mpk is then encrypted using Military-Grade <a href="http://en.wikipedia.org/wiki/Advanced_Encryption_Standard">AES</a> encryption, using the password you created, and then only your <b>Public</b> addresses are generated and stored.</p>
+            <h4>Your Balances Are Tallied [online]</h4>
+            <p class="about">At this point, and from now on, the app will communicate with <a href="http://blockchain.info">Blockchain.info</a> to get your balances on the addresses, and the local Bitcoin price will be pulled from <a href="https://coinbase.com">Coinbase.com</a> to provide you with USD conversions.</p>
+        </div>
+          <p class="about"></p>
+          <div class="leftsmall">
+              <div id="qr"></div>
+          </div>
+          <h4>Enjoy!</h4>
+        <p class="about">If this product made your life a bit easier, or if you just have some spare coins laying about, feel free to use this QR code to show some love! :)</p>
+        <p class="about"><strong>Got questions? </strong> <a href="#">electsum@iceghost.com</a></p>
+        <div style="clear: both;"></div>
+                  <div class="site">
+             Stay in touch:
+             <div style="clear: both; height: 15px;"></div>
+             <a href="http://www.twitter.com/electsum"><img src="img/twitter.jpg" alt="Twitter" /></a>
+          </div>
+          <div style="clear: both;"></div>
+      </div>
+      <div class="footer">
+      Made in Nebraska, with <img src="img/srdce.jpg" alt="Love" />, on Mac. © 2014 IceGhost, All rights reserved <br />
+      Apple, the logo and iPhone are trademarks of Apple Inc., registered in U.S. and other countries.
+      </div>
+    </div>
+  </div>
+  <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-1363435-18', 'electsum.com');
+      ga('send', 'pageview');
+
+  </script>
+</body>
+</html>
